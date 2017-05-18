@@ -2,7 +2,7 @@
 title: "Reproducible Research Project 1"
 author: "Allan de Venecia"
 date: "May 14, 2017"
-output: html_document
+output: md_document
 ---
 
 ## Introduction
